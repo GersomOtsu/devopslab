@@ -66,4 +66,4 @@ jobs:
             --platform managed \
             --allow-unauthenticated \
             --project ${{ vars.GOOGLE_PROJECT_ID }} \
-            --format jso
+            --format json
